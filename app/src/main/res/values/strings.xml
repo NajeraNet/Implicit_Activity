@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit_Activity</string>
+    <string name="welcome_to_implicit_views">Welcome To Implicit Views</string>
+    <!-- String Usados en Activity Main -->
+    <string name="llamar">Llamar</string>
+    <string name="llamar_amigo">Llamar a un amigo</string>
+    <string name="abrir_web">Abrir página Web</string>
+    <string name="abrir_mapa">Abrir Maps</string>
+</resources>
